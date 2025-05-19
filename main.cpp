@@ -1,8 +1,4 @@
-///  @brief Program 4 - Date Class
-///     Adapted from prior programs developed by Professor Reed.
-///  @author [Muhamamad Wasiuddin Hakim]
-///  @date July 20, 2021
-///  CS 141 Summer 2021, Dr. Koehler
+
 
 #include <iostream>
 #include <string>
